@@ -1,16 +1,38 @@
-# dart_base
+# Flutter_Basic
 
-A new Flutter project.
+Dart 기본 문법 
+- Variables
+  - Var Keyword
+  - Dynamic Type
+  - Nullable Variables
+  - Final Variables
+  - Late Variables
+  - Constant Variables
 
-## Getting Started
+- Data Types
+  - Lists
+  - String Interpolation
+  - Collection For
+  - Maps
+  - Sets
 
-This project is a starting point for a Flutter application.
+- Functions
+  - Named Parameters
+  - Optional Positional Parameters
+  - QQ Operator
+  - Typedef
 
-A few resources to get you started if this is your first Flutter project:
+- Classes
+  - Constructors
+  - Named Constructors Parameters
+  - Named Parameters
+  - Cascade Notation
+  - Enums
+  - Abstract Classes
+  - Inheritance
+  - Mixins
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
