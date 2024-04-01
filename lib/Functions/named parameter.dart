@@ -1,4 +1,4 @@
-//named parameter
+//named parameter <-> positional parameter
 //set required or default value
 String sayHello({required String name, required int age, String country = 'jeonju'}) {
   return "Hello $name, you are $age, and you come from $country";
